@@ -1,9 +1,8 @@
 Olá, eu me chamo Matheus! 
 Seja muito bem vindo ao meu perfil GitHub! 👋
 
-- 🔭 Atualmente trabalho como auxiliar de faturamento hospitalar.
 - 📫 Contate-me no email: matheuses1897@gmail.com
-- :mortar_board: Atualmente estou cursando Sistemas de Informação. 2º Semestre.
+- :mortar_board: Atualmente estou no 2º Semestre do curso de Sistemas de Informação.
 
 
 

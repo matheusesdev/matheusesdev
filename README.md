@@ -6,7 +6,7 @@ Meu nome é Matheus. Aqui eu irei compartilhar os meus projetos e progressos nos
 ![](https://komarev.com/ghpvc/?username=matheusesdev&style=flat-square)
 
 - :mortar_board: Graduando em Sistemas de Informação.
-- :mortar_board: Fazendo curso de formação em front-end, HTML, CSS, JavaScript e React JS do básico ao avançado.
+- :mortar_board: Curso de formação front-end (em progresso).
  
 
 

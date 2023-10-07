@@ -4,7 +4,7 @@ Seja muito bem vindo ao meu perfil GitHub! 👋
 - 📫 Contate-me no email: matheuses1897@gmail.com
 - :mortar_board: Atualmente estou no 2º Semestre do curso de Sistemas de Informação.
 
-<div>![](https://komarev.com/ghpvc/?username=matheusesdev&color=dc143c)</div>
+
 
 Estou aprendendo: 
 <img align="center" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
@@ -34,7 +34,7 @@ Estou aprendendo:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusesdev&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+![](https://komarev.com/ghpvc/?username=matheusesdev&color=dc143c)
 
           
           

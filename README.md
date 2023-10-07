@@ -1,11 +1,13 @@
 <h1>Olá, seja muito bem vindo(a)</h1>
 
-Meu nome é Matheus. Aqui eu irei compartilhar os meus projetos e progressos nos estudos com foco em front-end.
+Meu nome é Matheus. Aqui eu irei compartilhar os meus projetos e progressos nos estudos.
 
 
 ![](https://komarev.com/ghpvc/?username=matheusesdev&style=flat-square)
 
 - :mortar_board: Graduando em Sistemas de Informação.
+- :mortar_board: Fazendo curso de formação em front-end, HTML, CSS, JavaScript e React JS do básico ao avançado.
+ 
 
 
 

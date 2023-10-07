@@ -5,7 +5,12 @@ Meu nome é Matheus. Aqui eu irei compartilhar os meus projetos e progressos nos
 
 ![](https://komarev.com/ghpvc/?username=matheusesdev&style=flat-square)
 
-- 📫 Contate-me no email: matheuses1897@gmail.com
+div style="display: flex">
+    <a 
+       href="mailto: matheuses1897@gmail.com" target="_blank">
+       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </div>
 - :mortar_board: Atualmente estou no 2º Semestre do curso de Sistemas de Informação.
 
 

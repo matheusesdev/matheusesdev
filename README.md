@@ -5,7 +5,7 @@ Meu nome é Matheus. Aqui eu irei compartilhar os meus projetos e progressos nos
 
 ![](https://komarev.com/ghpvc/?username=matheusesdev&style=flat-square)
 
-- :mortar_board: Estudante do curso de Sistemas de Informação.
+- :mortar_board: Graduando em Sistemas de Informação.
 
 
 

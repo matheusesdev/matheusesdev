@@ -4,10 +4,8 @@ Seja muito bem vindo ao meu perfil GitHub! 👋
 - 📫 Contate-me no email: matheuses1897@gmail.com
 - :mortar_board: Atualmente estou no 2º Semestre do curso de Sistemas de Informação.
 
+<div>![](https://komarev.com/ghpvc/?username=matheusesdev&color=dc143c)</div>
 
-
-
-![](https://komarev.com/ghpvc/?username=matheusesdev&color=dc143c)
 Estou aprendendo: 
 <img align="center" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
 <img align="center" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>

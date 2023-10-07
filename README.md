@@ -1,5 +1,5 @@
 <h1>Olá, seja muito bem vindo(a)</h1>
-Me chamo Matheus.
+Meu nome é Matheus. Aqui eu irei compartilhar os meus projetos e progressos nos estudos com foco em front-end.
 
 
 ![](https://komarev.com/ghpvc/?username=matheusesdev&style=flat-square)

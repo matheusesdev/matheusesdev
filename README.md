@@ -1,5 +1,5 @@
 ## Sobre
-Me chamo Matheus, tenho 26 anos. Estou cursando o bacharelado em Sistemas de Informação na [Unex](https://unex.edu.br).
+Me chamo Matheus, tenho 26 anos. Estou cursando Sistemas de Informação na [Unex](https://unex.edu.br).
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusessantos/)

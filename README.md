@@ -10,7 +10,7 @@
 
 ## 👋 Sobre Mim
 
-Olá! Tenho <img src="https://img.shields.io/badge/dynamic/json?url=https://api.s-n-c-k.workers.dev/api/v1/age?dob=1997-04-18&label=idade&color=blue&style=flat-square" alt="Idade"/> e sou um grande apaixonado pelo universo da tecnologia.
+Olá! Tenho <img src="https://img.shields.io/badge/dynamic/json?url=https://api.s-n-c-k.workers.dev/api/v1/age?dob=1997-04-18&label=idade&color=blue&style=flat-square" alt="Idade"/> e sou um grande apaixonado pelo universo da tecnologia. Atualmente, estou cursando Sistemas de Informação e gosto de usar a programação para criar soluções que simplificam o dia a dia.
 
 - 🎓 Estudante de Sistemas de Informação.
 - 🤖 Adoro **automatizar tarefas com código**, transformando processos manuais em rotinas eficientes.

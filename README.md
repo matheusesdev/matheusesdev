@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/624760/236682073-2e2e6e2d-5e7e-4e6e-9b7d-6e4e6e2e6e2e.png" width="120" alt="Logo VerdeVivo IA"/>
   <h1>Matheus Santos</h1>
   <p>
     <b>Entusiasta de Tecnologia e Estudante de Sistemas de Informação</b><br>
@@ -34,6 +33,15 @@ Olá! Tenho 26 anos e sou um grande apaixonado pelo universo da tecnologia. Atua
 
 **Ferramentas:** ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=matheusesdev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusesdev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+</div>
 
 ---
 

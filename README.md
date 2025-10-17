@@ -46,5 +46,5 @@ Olá! Sou um grande apaixonado pelo universo da tecnologia. Atualmente, estou cu
 ---
 
 <div align="center">
-  <sub>Feito com ❤️ por Matheus Santos</sub>
+  <sub>Feito por Matheus Santos</sub>
 </div>

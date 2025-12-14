@@ -4,7 +4,7 @@
 
 ### Vibecoder • AI-Powered Developer • Tech Enthusiast
 
-[![Sistemas de Informação](https://img.shields.io/badge/🎓_Estudante-Sistemas_de_Informação-blue? style=flat-square)](https://unex.edu.br)
+[![Sistemas de Informação](https://img.shields.io/badge/🎓_Estudante-Sistemas_de_Informação-blue?style=flat-square)](https://unex.edu.br)
 [![Localização](https://img.shields.io/badge/📍_Brasil-green?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusessantos/)
 
@@ -16,7 +16,7 @@
 
 > *"Código com vibe, soluções com IA"*
 
-Sou um **vibecoder** apaixonado por tecnologia que acredita no poder da **programação assistida por IA** para transformar ideias em realidade. Não se trata de substituir a criatividade humana, mas de potencializá-la com ferramentas inteligentes.
+Sou um **vibecoder** apaixonado por tecnologia que acredita no poder da **programação assistida por IA** para transformar ideias em realidade. Não se trata de substituir a criatividade humana, mas [...]
 
 ### 🎯 Minha Filosofia de Desenvolvimento
 
@@ -35,7 +35,7 @@ Utilizo diferentes IAs para potencializar meu desenvolvimento, cada uma com seus
 <div align="center">
 
 | IA | Uso Principal |
-|: --:|:-------------|
+|:--:|:-------------|
 | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white) | Code completion & pair programming |
 | ![Claude](https://img.shields.io/badge/Claude_Sonnet-9B6B3F?style=for-the-badge&logo=anthropic&logoColor=white) | Análise complexa & arquitetura |
 | ![Google AI](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white) | Experimentação & prototipagem |
@@ -62,7 +62,7 @@ Utilizo diferentes IAs para potencializar meu desenvolvimento, cada uma com seus
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-20232A? style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,7 +73,7 @@ Utilizo diferentes IAs para potencializar meu desenvolvimento, cada uma com seus
 
 **Dev Tools**  
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC? style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF6B9D?style=for-the-badge&logo=heart&logoColor=white)
 
 ---
@@ -102,12 +102,12 @@ Como vibecoder, acredito que:
 
 ## 💬 Vamos Conectar? 
 
-Adoro trocar ideias sobre tecnologia, IA, automação e vibecoding!  Se você também curte esse estilo de desenvolvimento ou está começando a explorar o mundo da programação assistida por IA, vamos conversar. 
+Adoro trocar ideias sobre tecnologia, IA, automação e vibecoding!  Se você também curte esse estilo de desenvolvimento ou está começando a explorar o mundo da programação assistida por IA, vamos conversar!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusessantos/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000? style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusesdev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusesdev)
 
 **Made with** ☕ **code,** 🎵 **good vibes** **and** 🤖 **AI assistance**  
 *Por Matheus Santos*

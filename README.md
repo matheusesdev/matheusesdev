@@ -14,19 +14,12 @@
 
 ---
 
-<br/>
-
 ```
 matheus@vibecoder ~ $ whoami
 ```
 
 > Desenvolvedor que entende que o futuro não é sobre decorar sintaxe,  
 > mas sobre orquestrar ferramentas, prompts e sistemas pra criar coisas incríveis.
-
-<br/>
-
-<details>
-<summary><code>cat manifesto.txt</code></summary>
 
 <br/>
 
@@ -37,92 +30,76 @@ matheus@vibecoder ~ $ whoami
 - Itera rápido e quebra as coisas antes do mercado  
 - Código funcional > código perfeito que nunca sai do papel
 
-</details>
-
-<br/>
-
 ---
-
-<br/>
 
 ```
 matheus@vibecoder ~ $ ls tools/
 ```
 
-<details open>
-<summary><b>ai</b></summary>
+### AI
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bolt-000000?style=flat-square&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-000000?style=flat-square&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
-`Claude` · `Cursor` · `Copilot` · `v0` · `Bolt` · `Lovable` · `Gemini` · `ChatGPT`
+### Stack
 
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-<details open>
-<summary><b>stack</b></summary>
+### DevTools
 
-<br/>
-
-`Python` · `TypeScript` · `React` · `Next.js` · `Tailwind` · `Node.js` · `Supabase` · `MongoDB`
-
-</details>
-
-<details>
-<summary><b>devtools</b></summary>
-
-<br/>
-
-`Git` · `VSCode` · `Vercel` · `Docker` · `Railway`
-
-</details>
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+</p>
 
 ---
-
-<br/>
 
 ```
 matheus@vibecoder ~ $ git log --oneline
 ```
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=matheusesdev&theme=transparent&hide_border=true&show_icons=true&icon_color=888&title_color=fff&text_color=888&include_all_commits=true&count_private=true&ring_color=444" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusesdev&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=888&langs_count=6" />
-
+  <a href="https://github.com/matheusesdev">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheusesdev&theme=transparent&hide_border=true&show_icons=true&icon_color=888888&title_color=ffffff&text_color=888888&include_all_commits=true&count_private=true&ring_color=444444" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/matheusesdev">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusesdev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
-
-<br/>
-
-<details>
-<summary><code>git log --graph</code></summary>
 
 <br/>
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusesdev&bg_color=00000000&color=888888&line=444444&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <a href="https://github.com/matheusesdev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusesdev&bg_color=00000000&color=888888&line=444444&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 </div>
 
-</details>
-
-<br/>
-
 ---
-
-<br/>
 
 ```
 matheus@vibecoder ~ $ cat timeline.md
 ```
-
-<details>
-<summary>expandir</summary>
-
-<br/>
 
 ```
 2020  Entrei em SI
@@ -130,22 +107,14 @@ matheus@vibecoder ~ $ cat timeline.md
 2023  Virei vibecoder
 2024  Stack completa, múltiplas IAs
 2025  7º semestre, projetos reais
-2026  🎓 Formatura
+2026  Formatura
 ```
-
-</details>
-
-<br/>
 
 ---
 
 <div align="center">
 
-<br/>
-
-*feito com* `☕` *café,* `🎵` *lofi e* `🤖` *claude*
-
-<br/>
+*feito com cafe, lofi e claude*
 
 **`▌`**
 

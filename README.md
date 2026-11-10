@@ -1,132 +1,81 @@
 <div align="center">
 
-[**English**](./README.md) · [Português](./README.pt-BR.md)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="matheus."></picture>
 
-# Matheus Santos
+Every system has an undotted i. I like dotting them.
 
-### CRM Systems Analyst | Data & AI Builder
+<sub>Matheus Santos · CRM systems analyst · Information Systems undergraduate</sub>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=6E7681&center=true&vCenter=true&repeat=true&width=540&height=28&lines=Building+smarter+workflows;Connecting+systems+through+APIs;Turning+data+into+decisions)](https://git.io/typing-svg)
-
-Information Systems undergraduate building practical solutions across<br>
-CRM, data, integrations, and automation.
-
-[![Explore selected work](https://img.shields.io/badge/Explore_selected_work-181717?style=for-the-badge&logo=github&logoColor=white)](#selected-work)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusessantos/)
+<sub>**English** · [Português](./README.pt-BR.md) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/matheusessantos/) · [Selected work](#work)</sub>
 
 </div>
 
----
+<br>
 
-## 01 / ABOUT
+I work between the business and the software: CRM workflows, API integrations, data and AI-assisted automation. I start from the real problem and pick the simplest thing that reliably solves it.
 
-I work at the intersection of **business systems and software**, configuring CRM workflows, supporting users, connecting APIs, and turning operational data into useful decisions.
+<br>
 
-Alongside my Information Systems degree, I build web applications, data projects, and AI-assisted automations. I care about understanding the real problem first, then choosing the simplest reliable way to solve it.
+### Five ways to dot the i
 
-```text
-current focus  CRM systems · integrations · data analysis · AI automation
-based in       Vitória da Conquista, Bahia, Brazil
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-web-dark.svg"><img src="assets/dot-web-light.svg" width="9" alt=""></picture>&nbsp; **Web** &nbsp;<sub>From the page that presents a business to the system with login and a panel.</sub>
 
-<a id="selected-work"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-web-dark.svg"><img src="assets/stack-web-light.svg" width="100%" alt=""></picture>
 
-## 02 / SELECTED WORK
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-auto-dark.svg"><img src="assets/dot-auto-light.svg" width="9" alt=""></picture>&nbsp; **Automations** &nbsp;<sub>The everyday task, done without anyone typing.</sub>
 
-### Lumi
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-auto-dark.svg"><img src="assets/stack-auto-light.svg" width="100%" alt=""></picture>
 
-![In development](https://img.shields.io/badge/IN_DEVELOPMENT-7C3AED?style=flat-square)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-int-dark.svg"><img src="assets/dot-int-light.svg" width="9" alt=""></picture>&nbsp; **Integrations** &nbsp;<sub>Typed once, shows up everywhere.</sub>
 
-An AI sales agent for the real estate market, designed to help independent agents qualify and organize leads. The current foundation uses a modular, multi-tenant architecture with safe observability and structured data boundaries.
+<sub>REST APIs · Webhooks · CRM workflows</sub>
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `AI Architecture`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-ia-dark.svg"><img src="assets/dot-ia-light.svg" width="9" alt=""></picture>&nbsp; **AI** &nbsp;<sub>No hype. AI where it actually solves something.</sub>
 
-### loui
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-ia-dark.svg"><img src="assets/stack-ia-light.svg" width="100%" alt=""></picture>
 
-![In development](https://img.shields.io/badge/IN_DEVELOPMENT-7C3AED?style=flat-square)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-ti-dark.svg"><img src="assets/dot-ti-light.svg" width="9" alt=""></picture>&nbsp; **Data** &nbsp;<sub>Operational data turned into a decision.</sub>
 
-A bilingual institutional platform for digital products and AI solutions. Its design system follows a minimal, editorial direction with accessibility, performance, and responsive behavior as core requirements.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-ti-dark.svg"><img src="assets/stack-ti-light.svg" width="100%" alt=""></picture>
 
-`Next.js` `TypeScript` `React` `Tailwind CSS` `i18n`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-sig-dark.svg"><img src="assets/dot-sig-light.svg" width="9" alt=""></picture>&nbsp; **And to put it live**
 
-### Internal CRM Distribution Platform
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-sig-dark.svg"><img src="assets/stack-sig-light.svg" width="100%" alt=""></picture>
 
-![Internal project](https://img.shields.io/badge/INTERNAL-475569?style=flat-square)
+<br>
 
-A private business application for distributing commercial analyses and supporting CRM-integrated workflows. Built to make day-to-day operations more consistent, traceable, and efficient.
+<a id="work"></a>
 
-`FastAPI` `React` `Supabase` `REST APIs` `CRM Integration`
+### What has come out of here
 
-### Matchly
+**loui** &nbsp;<sub>`in development`</sub><br>
+Made-to-measure technology: websites, automations, integrations, AI and IT consulting. A single static page, no build step. *A gente põe os pingos nos is.*<br>
+<sub>HTML · CSS · JavaScript</sub>
 
-![In development](https://img.shields.io/badge/IN_DEVELOPMENT-7C3AED?style=flat-square)
+**Lumi** &nbsp;<sub>`in development`</sub><br>
+An AI sales agent for real estate, by loui. Helps independent agents qualify and organize leads on a modular, multi-tenant foundation.<br>
+<sub>Next.js · TypeScript · PostgreSQL · Prisma</sub>
 
-A TypeScript application currently evolving through iterative product and interface development.
+**Internal CRM distribution platform** &nbsp;<sub>`internal`</sub><br>
+A private application that distributes commercial analyses and supports CRM-integrated workflows.<br>
+<sub>FastAPI · React · Supabase · REST APIs</sub>
 
-[`Repository`](https://github.com/matheusesdev/matchly) · [`Live preview`](https://matchly-blue.vercel.app)
+**Matchly** &nbsp;<sub>`in development`</sub><br>
+A TypeScript application evolving through iterative product and interface work.<br>
+<sub>TypeScript · React · Vercel &nbsp;·&nbsp; [Repository](https://github.com/matheusesdev/matchly) · [Live preview](https://matchly-blue.vercel.app)</sub>
 
-`TypeScript` `React` `Vercel`
+**MecaniQA** &nbsp;<sub>`academic`</sub><br>
+An academic data project: time-series analysis, leakage-safe forecasting and reproducible infrastructure.<br>
+<sub>Python · Jupyter · scikit-learn · Docker &nbsp;·&nbsp; [Data & forecasting](https://github.com/matheusesdev/mecaniQA-salvador) · [Cloud & infrastructure](https://github.com/matheusesdev/mecaniQA-nuvem-salvador)</sub>
 
-### MecaniQA
+<br>
 
-![Academic project](https://img.shields.io/badge/ACADEMIC-0369A1?style=flat-square)
-
-An academic data project exploring time-series analysis, leakage-safe forecasting, model comparison, and reproducible infrastructure exercises.
-
-[`Data & forecasting`](https://github.com/matheusesdev/mecaniQA-salvador) · [`Cloud & infrastructure`](https://github.com/matheusesdev/mecaniQA-nuvem-salvador)
-
-`Python` `Jupyter` `scikit-learn` `Docker` `Time Series`
-
----
-
-## 03 / AI & AUTOMATION
-
-Building AI-assisted workflows, integrations, and practical automations.
-
-`Claude` `OpenAI` `Gemini` `Codex` `Cursor` `GitHub Copilot` `n8n` `GitHub Actions` `MCP` `REST APIs` `Webhooks`
-
-## 04 / SOFTWARE DEVELOPMENT
-
-Developing web, API, and mobile solutions with tools chosen around the problem rather than a fixed stack.
-
-`TypeScript` `JavaScript` `Python` `React` `Next.js` `React Native` `FastAPI`
-
-## 05 / DATA, CRM & INTEGRATIONS
-
-Working with business processes from configuration and support through data analysis and system integration.
-
-`CRM Workflows` `PostgreSQL` `Prisma` `Supabase` `Data Analysis` `REST APIs` `System Integrations`
-
-## 06 / INFRASTRUCTURE & DELIVERY
-
-Shipping and maintaining projects with reproducible environments and straightforward delivery workflows.
-
-`Docker` `Vercel` `Railway` `Git` `GitHub` `GitHub Actions`
-
----
-
-## 07 / GITHUB ACTIVITY
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=matheusesdev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=matheusesdev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusesdev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Matheus Santos's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusesdev&layout=compact&hide_border=true&langs_count=6&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusesdev&layout=compact&hide_border=true&langs_count=6&theme=default" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusesdev&layout=compact&hide_border=true&langs_count=6" alt="Most used languages in Matheus Santos's public repositories" />
-  </picture>
-</div>
-
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rail-dark.svg"><img src="assets/rail-light.svg" width="100%" alt=""></picture>
 
 <div align="center">
 
-I build with curiosity, systems thinking, and AI as a copilot.<br>
-*A little vibecoding, grounded in real problems.*
+What's the undotted i in your business? &nbsp;**[Message me on LinkedIn](https://www.linkedin.com/in/matheusessantos/)**
 
-[LinkedIn](https://www.linkedin.com/in/matheusessantos/) · [GitHub](https://github.com/matheusesdev)
+<sub>matheus · dotting the i's &nbsp;·&nbsp; Vitória da Conquista, Bahia, Brazil</sub>
 
 </div>

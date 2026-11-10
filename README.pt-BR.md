@@ -1,132 +1,81 @@
 <div align="center">
 
-[English](./README.md) · [**Português**](./README.pt-BR.md)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="matheus."></picture>
 
-# Matheus Santos
+Todo sistema tem um i sem pingo. Eu gosto de pôr.
 
-### CRM Systems Analyst | Data & AI Builder
+<sub>Matheus Santos · analista de sistemas CRM · graduando em Sistemas de Informação</sub>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=6E7681&center=true&vCenter=true&repeat=true&width=540&height=28&lines=Criando+fluxos+mais+inteligentes;Conectando+sistemas+por+APIs;Transformando+dados+em+decisões)](https://git.io/typing-svg)
-
-Graduando em Sistemas de Informação, criando soluções práticas para<br>
-CRM, dados, integrações e automação.
-
-[![Conheça meus projetos](https://img.shields.io/badge/Conheça_meus_projetos-181717?style=for-the-badge&logo=github&logoColor=white)](#projetos)
-[![Conecte-se no LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusessantos/)
+<sub>[English](./README.md) · **Português** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/matheusessantos/) · [Projetos](#work)</sub>
 
 </div>
 
----
+<br>
 
-## 01 / SOBRE
+Trabalho entre o negócio e o software: fluxos de CRM, integrações por API, dados e automação assistida por IA. Começo pelo problema real e escolho o caminho mais simples que funcione de verdade.
 
-Atuo na interseção entre **sistemas de negócio e desenvolvimento de software**, configurando fluxos de CRM, apoiando usuários, conectando APIs e transformando dados operacionais em decisões úteis.
+<br>
 
-Em paralelo à graduação em Sistemas de Informação, desenvolvo aplicações web, projetos de dados e automações assistidas por IA. Gosto de compreender primeiro o problema real e, então, escolher a forma mais simples e confiável de resolvê-lo.
+### Cinco jeitos de pôr o pingo no i
 
-```text
-foco atual   sistemas CRM · integrações · análise de dados · automação com IA
-localização  Vitória da Conquista, Bahia, Brasil
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-web-dark.svg"><img src="assets/dot-web-light.svg" width="9" alt=""></picture>&nbsp; **Web** &nbsp;<sub>Da página que apresenta a empresa ao sistema com login e painel.</sub>
 
-<a id="projetos"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-web-dark.svg"><img src="assets/stack-web-light.svg" width="100%" alt=""></picture>
 
-## 02 / PROJETOS SELECIONADOS
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-auto-dark.svg"><img src="assets/dot-auto-light.svg" width="9" alt=""></picture>&nbsp; **Automações** &nbsp;<sub>A tarefa de todo dia, feita sem ninguém digitando.</sub>
 
-### Lumi
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-auto-dark.svg"><img src="assets/stack-auto-light.svg" width="100%" alt=""></picture>
 
-![Em desenvolvimento](https://img.shields.io/badge/EM_DESENVOLVIMENTO-7C3AED?style=flat-square)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-int-dark.svg"><img src="assets/dot-int-light.svg" width="9" alt=""></picture>&nbsp; **Integrações** &nbsp;<sub>Digitou uma vez, apareceu em todo lugar.</sub>
 
-Agente comercial de IA para o mercado imobiliário, pensado para ajudar corretores independentes a qualificar e organizar leads. A fundação atual utiliza arquitetura modular e multi-tenant, com observabilidade segura e limites estruturados para os dados.
+<sub>APIs REST · Webhooks · Fluxos de CRM</sub>
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Arquitetura de IA`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-ia-dark.svg"><img src="assets/dot-ia-light.svg" width="9" alt=""></picture>&nbsp; **IA** &nbsp;<sub>Sem modismo. IA onde ela resolve de verdade.</sub>
 
-### loui
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-ia-dark.svg"><img src="assets/stack-ia-light.svg" width="100%" alt=""></picture>
 
-![Em desenvolvimento](https://img.shields.io/badge/EM_DESENVOLVIMENTO-7C3AED?style=flat-square)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-ti-dark.svg"><img src="assets/dot-ti-light.svg" width="9" alt=""></picture>&nbsp; **Dados** &nbsp;<sub>Dado operacional transformado em decisão.</sub>
 
-Plataforma institucional bilíngue para produtos digitais e soluções com IA. Seu sistema visual segue uma direção minimalista e editorial, com acessibilidade, desempenho e responsividade como requisitos centrais.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-ti-dark.svg"><img src="assets/stack-ti-light.svg" width="100%" alt=""></picture>
 
-`Next.js` `TypeScript` `React` `Tailwind CSS` `i18n`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-sig-dark.svg"><img src="assets/dot-sig-light.svg" width="9" alt=""></picture>&nbsp; **E para pôr no ar**
 
-### Internal CRM Distribution Platform
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-sig-dark.svg"><img src="assets/stack-sig-light.svg" width="100%" alt=""></picture>
 
-![Projeto interno](https://img.shields.io/badge/INTERNO-475569?style=flat-square)
+<br>
 
-Aplicação corporativa privada para distribuição de análises comerciais e suporte a fluxos integrados ao CRM. Construída para tornar a operação diária mais consistente, rastreável e eficiente.
+<a id="work"></a>
 
-`FastAPI` `React` `Supabase` `APIs REST` `Integração com CRM`
+### O que já saiu daqui
 
-### Matchly
+**loui** &nbsp;<sub>`em desenvolvimento`</sub><br>
+Tecnologia sob medida: sites, automações, integrações, IA e consultoria de TI. Uma página estática de um arquivo só, sem etapa de build. *A gente põe os pingos nos is.*<br>
+<sub>HTML · CSS · JavaScript</sub>
 
-![Em desenvolvimento](https://img.shields.io/badge/EM_DESENVOLVIMENTO-7C3AED?style=flat-square)
+**Lumi** &nbsp;<sub>`em desenvolvimento`</sub><br>
+Agente comercial de IA para o mercado imobiliário, da loui. Ajuda corretores independentes a qualificar e organizar leads, sobre uma fundação modular e multi-tenant.<br>
+<sub>Next.js · TypeScript · PostgreSQL · Prisma</sub>
 
-Aplicação em TypeScript que evolui por meio de ciclos iterativos de produto e interface.
+**Plataforma interna de distribuição para CRM** &nbsp;<sub>`interno`</sub><br>
+Aplicação privada que distribui análises comerciais e apoia fluxos integrados ao CRM.<br>
+<sub>FastAPI · React · Supabase · APIs REST</sub>
 
-[`Repositório`](https://github.com/matheusesdev/matchly) · [`Prévia online`](https://matchly-blue.vercel.app)
+**Matchly** &nbsp;<sub>`em desenvolvimento`</sub><br>
+Aplicação em TypeScript que evolui em ciclos de produto e interface.<br>
+<sub>TypeScript · React · Vercel &nbsp;·&nbsp; [Repositório](https://github.com/matheusesdev/matchly) · [Versão no ar](https://matchly-blue.vercel.app)</sub>
 
-`TypeScript` `React` `Vercel`
+**MecaniQA** &nbsp;<sub>`acadêmico`</sub><br>
+Projeto acadêmico de dados: séries temporais, previsão sem vazamento de dados e infraestrutura reproduzível.<br>
+<sub>Python · Jupyter · scikit-learn · Docker &nbsp;·&nbsp; [Dados e previsão](https://github.com/matheusesdev/mecaniQA-salvador) · [Nuvem e infraestrutura](https://github.com/matheusesdev/mecaniQA-nuvem-salvador)</sub>
 
-### MecaniQA
+<br>
 
-![Projeto acadêmico](https://img.shields.io/badge/ACADÊMICO-0369A1?style=flat-square)
-
-Projeto acadêmico de dados que explora análise de séries temporais, previsões sem vazamento, comparação de modelos e exercícios de infraestrutura reproduzível.
-
-[`Dados e previsões`](https://github.com/matheusesdev/mecaniQA-salvador) · [`Nuvem e infraestrutura`](https://github.com/matheusesdev/mecaniQA-nuvem-salvador)
-
-`Python` `Jupyter` `scikit-learn` `Docker` `Séries Temporais`
-
----
-
-## 03 / IA & AUTOMAÇÃO
-
-Criação de fluxos assistidos por IA, integrações e automações práticas.
-
-`Claude` `OpenAI` `Gemini` `Codex` `Cursor` `GitHub Copilot` `n8n` `GitHub Actions` `MCP` `APIs REST` `Webhooks`
-
-## 04 / DESENVOLVIMENTO DE SOFTWARE
-
-Desenvolvimento de soluções web, APIs e aplicações móveis com ferramentas escolhidas de acordo com o problema, sem dependência de uma stack fixa.
-
-`TypeScript` `JavaScript` `Python` `React` `Next.js` `React Native` `FastAPI`
-
-## 05 / DADOS, CRM & INTEGRAÇÕES
-
-Atuação em processos de negócio, desde configuração e suporte até análise de dados e integração entre sistemas.
-
-`Fluxos de CRM` `PostgreSQL` `Prisma` `Supabase` `Análise de Dados` `APIs REST` `Integrações de Sistemas`
-
-## 06 / INFRAESTRUTURA & ENTREGA
-
-Publicação e manutenção de projetos com ambientes reproduzíveis e fluxos de entrega objetivos.
-
-`Docker` `Vercel` `Railway` `Git` `GitHub` `GitHub Actions`
-
----
-
-## 07 / ATIVIDADE NO GITHUB
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=matheusesdev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=matheusesdev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusesdev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas de Matheus Santos no GitHub" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusesdev&layout=compact&hide_border=true&langs_count=6&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusesdev&layout=compact&hide_border=true&langs_count=6&theme=default" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusesdev&layout=compact&hide_border=true&langs_count=6" alt="Linguagens mais usadas nos repositórios públicos de Matheus Santos" />
-  </picture>
-</div>
-
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rail-dark.svg"><img src="assets/rail-light.svg" width="100%" alt=""></picture>
 
 <div align="center">
 
-Construo com curiosidade, pensamento sistêmico e IA como copiloto.<br>
-*Um pouco de vibecoding, sempre conectado a problemas reais.*
+Qual é o i sem pingo do seu negócio? &nbsp;**[Me chama no LinkedIn](https://www.linkedin.com/in/matheusessantos/)**
 
-[LinkedIn](https://www.linkedin.com/in/matheusessantos/) · [GitHub](https://github.com/matheusesdev)
+<sub>matheus · pondo os pingos nos is &nbsp;·&nbsp; Vitória da Conquista, Bahia, Brasil</sub>
 
 </div>

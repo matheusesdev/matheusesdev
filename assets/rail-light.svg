@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="presentation">
+<style>
+.h{fill:#0a8f47;animation:run 9s cubic-bezier(.45,0,.55,1) infinite alternate}
+@keyframes run{from{transform:translateX(0)}to{transform:translateX(1176px)}}
+@media (prefers-reduced-motion:reduce){.h{animation:none}}
+</style>
+<line x1="12" y1="12" x2="1188" y2="12" stroke="rgba(10,10,20,.22)" stroke-width="1"/>
+<circle class="h" cx="12" cy="12" r="4.5"/>
+</svg>

@@ -1,81 +1,54 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="matheus."></picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Matheus%20Santos&fontSize=44&fontColor=ffffff&fontAlignY=38" width="100%" alt="Matheus Santos">
 
-Every system has an undotted i. I like dotting them.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Analista+de+CRM+%C2%B7+Sistemas+de+Informa%C3%A7%C3%A3o;Integra%C3%A7%C3%B5es+%C2%B7+Dados+%C2%B7+IA" alt="Typing animation">
 
-<sub>Matheus Santos · CRM systems analyst · Information Systems undergraduate</sub>
-
-<sub>**English** · [Português](./README.pt-BR.md) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/matheusessantos/) · [Selected work](#work)</sub>
+[English](./README.md) · [Português](./README.pt-BR.md) · [LinkedIn](https://www.linkedin.com/in/matheusessantos/)
 
 </div>
 
 <br>
 
-I work between the business and the software: CRM workflows, API integrations, data and AI-assisted automation. I start from the real problem and pick the simplest thing that reliably solves it.
+I work between business processes and software: CRM workflows, API integrations, data and AI-assisted automation. I start from the real problem and pick the simplest solution that reliably works.
 
 <br>
 
-### Five ways to dot the i
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-web-dark.svg"><img src="assets/dot-web-light.svg" width="9" alt=""></picture>&nbsp; **Web** &nbsp;<sub>From the page that presents a business to the system with login and a panel.</sub>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-web-dark.svg"><img src="assets/stack-web-light.svg" width="100%" alt=""></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-auto-dark.svg"><img src="assets/dot-auto-light.svg" width="9" alt=""></picture>&nbsp; **Automations** &nbsp;<sub>The everyday task, done without anyone typing.</sub>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-auto-dark.svg"><img src="assets/stack-auto-light.svg" width="100%" alt=""></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-int-dark.svg"><img src="assets/dot-int-light.svg" width="9" alt=""></picture>&nbsp; **Integrations** &nbsp;<sub>Typed once, shows up everywhere.</sub>
-
-<sub>REST APIs · Webhooks · CRM workflows</sub>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-ia-dark.svg"><img src="assets/dot-ia-light.svg" width="9" alt=""></picture>&nbsp; **AI** &nbsp;<sub>No hype. AI where it actually solves something.</sub>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-ia-dark.svg"><img src="assets/stack-ia-light.svg" width="100%" alt=""></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-ti-dark.svg"><img src="assets/dot-ti-light.svg" width="9" alt=""></picture>&nbsp; **Data** &nbsp;<sub>Operational data turned into a decision.</sub>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-ti-dark.svg"><img src="assets/stack-ti-light.svg" width="100%" alt=""></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-sig-dark.svg"><img src="assets/dot-sig-light.svg" width="9" alt=""></picture>&nbsp; **And to put it live**
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-sig-dark.svg"><img src="assets/stack-sig-light.svg" width="100%" alt=""></picture>
-
-<br>
-
-<a id="work"></a>
-
-### What has come out of here
-
-**loui** &nbsp;<sub>`in development`</sub><br>
-Made-to-measure technology: websites, automations, integrations, AI and IT consulting. A single static page, no build step. *A gente põe os pingos nos is.*<br>
-<sub>HTML · CSS · JavaScript</sub>
-
-**Lumi** &nbsp;<sub>`in development`</sub><br>
-An AI sales agent for real estate, by loui. Helps independent agents qualify and organize leads on a modular, multi-tenant foundation.<br>
-<sub>Next.js · TypeScript · PostgreSQL · Prisma</sub>
-
-**Internal CRM distribution platform** &nbsp;<sub>`internal`</sub><br>
-A private application that distributes commercial analyses and supports CRM-integrated workflows.<br>
-<sub>FastAPI · React · Supabase · REST APIs</sub>
-
-**Matchly** &nbsp;<sub>`in development`</sub><br>
-A TypeScript application evolving through iterative product and interface work.<br>
-<sub>TypeScript · React · Vercel &nbsp;·&nbsp; [Repository](https://github.com/matheusesdev/matchly) · [Live preview](https://matchly-blue.vercel.app)</sub>
-
-**MecaniQA** &nbsp;<sub>`academic`</sub><br>
-An academic data project: time-series analysis, leakage-safe forecasting and reproducible infrastructure.<br>
-<sub>Python · Jupyter · scikit-learn · Docker &nbsp;·&nbsp; [Data & forecasting](https://github.com/matheusesdev/mecaniQA-salvador) · [Cloud & infrastructure](https://github.com/matheusesdev/mecaniQA-nuvem-salvador)</sub>
-
-<br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rail-dark.svg"><img src="assets/rail-light.svg" width="100%" alt=""></picture>
+## Contributions
 
 <div align="center">
 
-What's the undotted i in your business? &nbsp;**[Message me on LinkedIn](https://www.linkedin.com/in/matheusessantos/)**
-
-<sub>matheus · dotting the i's &nbsp;·&nbsp; Vitória da Conquista, Bahia, Brazil</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusesdev/matheusesdev/output-3d-contrib/profile-night-view.svg">
+  <img src="https://raw.githubusercontent.com/matheusesdev/matheusesdev/output-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%">
+</picture>
 
 </div>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,fastapi,postgres,prisma,supabase,docker,jupyter,git,github,vercel,html,css,sql" alt="Tech stack">
+
+</div>
+
+## Projects
+
+| Project | Description | Stack | Status |
+| --- | --- | --- | --- |
+| **loui** | Custom technology services: websites, automations, integrations and AI and IT consulting. | HTML · CSS · JavaScript | In development |
+| **Lumi** | AI sales agent for real estate. Helps independent agents qualify and organize leads on a modular, multi-tenant foundation. | Next.js · TypeScript · PostgreSQL · Prisma | In development |
+| **Internal CRM distribution platform** | Private application that distributes commercial analyses and supports CRM-integrated workflows. | FastAPI · React · Supabase | Internal |
+| **[Matchly](https://github.com/matheusesdev/matchly)** | TypeScript application evolving through iterative product and interface work. [Preview](https://matchly-blue.vercel.app) | TypeScript · React · Vercel | In development |
+| **[MecaniQA](https://github.com/matheusesdev/mecaniQA-salvador)** | Academic data project: time-series analysis, leakage-safe forecasting and reproducible infrastructure. [Infra](https://github.com/matheusesdev/mecaniQA-nuvem-salvador) | Python · Jupyter · scikit-learn · Docker | Academic |
+
+## How I work
+
+- I start from the real problem and choose the simplest solution that works reliably.
+- I use AI when it solves something concrete, not for its own sake.
+- I turn operational data into decisions.
+
+## Contact
+
+Want to talk about a project or a process that could be automated? Reach me on [LinkedIn](https://www.linkedin.com/in/matheusessantos/).

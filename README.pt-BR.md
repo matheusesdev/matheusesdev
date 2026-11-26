@@ -1,144 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Matheus%20Santos&fontSize=44&fontColor=ffffff&fontAlignY=38" width="100%" alt="Matheus Santos">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/header-pt.svg"><img src="./assets/terminal/light/header-pt.svg" alt="Matheus Santos. Analista de Sistemas CRM, Dados e IA — Bahia, Brasil. Fluxos de CRM · Integrações via API · Análise de dados · Automação com IA" width="100%"></picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Analista+de+CRM+%C2%B7+Sistemas+de+Informa%C3%A7%C3%A3o;Integra%C3%A7%C3%B5es+%C2%B7+Dados+%C2%B7+IA" alt="Animação de digitação">
-
-[English](./README.md) · [Português](./README.pt-BR.md) · [LinkedIn](https://www.linkedin.com/in/matheusessantos/)
-
-</div>
-
-<br>
-
-Trabalho entre processos de negócio e software: fluxos de CRM, integrações via API, dados e automações com IA. Começo pelo problema real e escolho a solução mais simples que funcione de forma confiável.
-
-<br>
-
-## Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusesdev/matheusesdev/output-3d-contrib/profile-night-view.svg">
-  <img src="https://raw.githubusercontent.com/matheusesdev/matheusesdev/output-3d-contrib/profile-green-animate.svg" alt="Gráfico de contribuições 3D" width="100%">
-</picture>
+<a href="https://www.linkedin.com/in/matheusessantos/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square"><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square" alt="Linkedin"></picture></a>
+<a href="https://github.com/matheusesdev?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="Github"></picture></a>
+<a href="https://matchly-blue.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MATCHLY-0d1117?style=flat-square&logo=vercel&logoColor=ffffff"><img src="https://img.shields.io/badge/MATCHLY-ffffff?style=flat-square&logo=vercel&logoColor=000000" alt="Matchly"></picture></a>
+<a href="./README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ENGLISH-0d1117?style=flat-square"><img src="https://img.shields.io/badge/ENGLISH-ffffff?style=flat-square" alt="English"></picture></a>
 
 </div>
 
-## Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/s1-pt.svg"><img src="./assets/terminal/light/s1-pt.svg" alt="01 WHOAMI" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/whoami-pt.svg"><img src="./assets/terminal/light/whoami-pt.svg" alt="Graduando em Sistemas de Informação. Analista de Sistemas CRM. Atuo entre processos de negócio e software: CRM, APIs, dados e automação. Começo pelo problema real e escolho a solução mais simples que funcione bem." width="100%"></picture>
 
-**Frontend**
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/s2-pt.svg"><img src="./assets/terminal/light/s2-pt.svg" alt="02 PROJETOS" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/p0-pt.svg"><img src="./assets/terminal/light/p0-pt.svg" alt="LOUI. Serviços de tecnologia sob medida: sites, automações, integrações e consultoria em IA e TI. HTML · CSS · JavaScript — em desenvolvimento" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/p1-pt.svg"><img src="./assets/terminal/light/p1-pt.svg" alt="LUMI. Agente de IA para vendas no setor imobiliário, que ajuda corretores a qualificar e organizar leads. Next.js · TypeScript · PostgreSQL · Prisma — em desenvolvimento" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/p2-pt.svg"><img src="./assets/terminal/light/p2-pt.svg" alt="PLATAFORMA DE DISTRIBUIÇÃO CRM. Aplicação privada que distribui análises comerciais e dá suporte a fluxos de CRM. FastAPI · React · Supabase — uso interno" width="100%"></picture>
+<a href="https://github.com/matheusesdev/matchly"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/p3-pt.svg"><img src="./assets/terminal/light/p3-pt.svg" alt="MATCHLY ↗. Aplicação em TypeScript que evolui por iterações de produto e interface. TypeScript · React · Vercel — em desenvolvimento" width="100%"></picture></a>
+<a href="https://github.com/matheusesdev/mecaniQA-salvador"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/p4-pt.svg"><img src="./assets/terminal/light/p4-pt.svg" alt="MECANIQA ↗. Análise de séries temporais e previsão sem vazamento de dados, com infraestrutura reproduzível. Python · Jupyter · scikit-learn · Docker — acadêmico" width="100%"></picture></a>
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/s3-pt.svg"><img src="./assets/terminal/light/s3-pt.svg" alt="03 TELEMETRIA" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/telemetry-pt.svg"><img src="./assets/terminal/light/telemetry-pt.svg" alt="5 repositórios públicos, 232 contribuições, 1 ano, 36 pull requests" width="100%"></picture>
 
-**Backend**
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/s4-pt.svg"><img src="./assets/terminal/light/s4-pt.svg" alt="04 A ROTA" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/route-pt.svg"><img src="./assets/terminal/light/route-pt.svg" alt="2023-09: entrada no GitHub. 2026-08: Matchly. 2026-08: MecaniQA. AGORA: construindo" width="100%"></picture>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/s5-pt.svg"><img src="./assets/terminal/light/s5-pt.svg" alt="05 STACK" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/stack-pt.svg"><img src="./assets/terminal/light/stack-pt.svg" alt="LINGUAGENS: TypeScript · JavaScript · Python. WEB: React · Next.js · React Native · Tailwind CSS. BACKEND: FastAPI · APIs REST · Webhooks. DADOS: PostgreSQL · Prisma · Supabase · Jupyter · scikit-learn. IA: Claude · OpenAI · Gemini · MCP. AUTOMAÇÃO: n8n · GitHub Actions · Fluxos de CRM. DEPLOY: Docker · Vercel · Railway." width="100%"></picture>
 
-**Banco de dados**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase">
-</p>
-
-**Dados e IA**
-
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-</p>
-
-**Ferramentas e infra**
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-</p>
-
-## Projetos
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>loui</h4>
-      Serviços de tecnologia sob medida: sites, automações, integrações e consultoria em IA e TI.
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-      </p>
-      <sub>Em desenvolvimento</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Lumi</h4>
-      Agente de IA para vendas no setor imobiliário. Ajuda corretores autônomos a qualificar e organizar leads, sobre uma base modular e multi-tenant.
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-      </p>
-      <sub>Em desenvolvimento</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Plataforma interna de distribuição de CRM</h4>
-      Aplicação privada que distribui análises comerciais e suporta fluxos integrados ao CRM.
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase">
-      </p>
-      <sub>Interno</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/matheusesdev/matchly">Matchly</a></h4>
-      Aplicação em TypeScript evoluída por iterações de produto e interface. <a href="https://matchly-blue.vercel.app">Preview</a>.
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-      </p>
-      <sub>Em desenvolvimento</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/matheusesdev/mecaniQA-salvador">MecaniQA</a></h4>
-      Projeto acadêmico de análise de séries temporais e previsão sem vazamento de dados, com infraestrutura reproduzível. <a href="https://github.com/matheusesdev/mecaniQA-nuvem-salvador">Repositório de infra</a>.
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      </p>
-      <sub>Acadêmico</sub>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
-
-## Como trabalho
-
-- Começo pelo problema real e escolho a solução mais simples que funcione de forma confiável.
-- Uso IA quando ela resolve algo concreto, não como fim em si.
-- Transformo dados operacionais em decisões.
-
-## Contato
-
-Quer conversar sobre um projeto ou um processo que pode ser automatizado? Me chama no [LinkedIn](https://www.linkedin.com/in/matheusessantos/).
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/footer-pt.svg"><img src="./assets/terminal/light/footer-pt.svg" alt="STATUS — CONSTRUINDO A PRÓXIMA INTEGRAÇÃO. Problema real primeiro, IA como copiloto" width="100%"></picture>

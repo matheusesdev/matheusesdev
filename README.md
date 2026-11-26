@@ -1,82 +1,31 @@
 <div align="center">
 
-<p><b>English</b> · <a href="./README.pt-BR.md">Português</a></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/header-en.svg"><img src="./assets/terminal/light/header-en.svg" alt="Matheus Santos. CRM Systems Analyst, Data &amp; AI — Bahia, Brazil. CRM workflows · API integrations · Data analysis · AI automation" width="100%"></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-en-dark.svg">
-  <img src="./assets/profile-hero-en-light.svg" alt="Matheus Santos. CRM Systems Analyst · Data &amp; AI. Connecting business processes and software." width="100%">
-</picture>
-
-<p>
-  <a href="#projects"><img src="https://img.shields.io/badge/See_projects-27272A?style=for-the-badge" alt="See projects"></a>
-  <a href="https://www.linkedin.com/in/matheusessantos/"><img src="https://img.shields.io/badge/Let%27s_talk-0A8F47?style=for-the-badge" alt="Let's talk"></a>
-</p>
+<a href="https://www.linkedin.com/in/matheusessantos/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square"><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square" alt="Linkedin"></picture></a>
+<a href="https://github.com/matheusesdev?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="Github"></picture></a>
+<a href="https://matchly-blue.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MATCHLY-0d1117?style=flat-square&logo=vercel&logoColor=ffffff"><img src="https://img.shields.io/badge/MATCHLY-ffffff?style=flat-square&logo=vercel&logoColor=000000" alt="Matchly"></picture></a>
+<a href="./README.pt-BR.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTUGU%C3%8AS-0d1117?style=flat-square"><img src="https://img.shields.io/badge/PORTUGU%C3%8AS-ffffff?style=flat-square" alt="Português"></picture></a>
 
 </div>
 
-I work with CRM workflows, API integrations, data and AI-assisted automation. I start from the real problem and pick the simplest solution that reliably works.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/s1-en.svg"><img src="./assets/terminal/light/s1-en.svg" alt="01 WHOAMI" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/whoami-en.svg"><img src="./assets/terminal/light/whoami-en.svg" alt="Information Systems undergraduate. CRM Systems Analyst. Working between business processes and software: CRM, APIs, data and automation. I start from the real problem and pick the simplest solution that works reliably." width="100%"></picture>
 
-## Projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/s2-en.svg"><img src="./assets/terminal/light/s2-en.svg" alt="02 PROJECTS" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/p0-en.svg"><img src="./assets/terminal/light/p0-en.svg" alt="LOUI. Custom technology services: websites, automations, integrations, and AI and IT consulting. HTML · CSS · JavaScript — in development" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/p1-en.svg"><img src="./assets/terminal/light/p1-en.svg" alt="LUMI. AI sales agent for real estate that helps independent agents qualify and organize leads. Next.js · TypeScript · PostgreSQL · Prisma — in development" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/p2-en.svg"><img src="./assets/terminal/light/p2-en.svg" alt="CRM DISTRIBUTION PLATFORM. Private application that distributes commercial analyses and supports CRM workflows. FastAPI · React · Supabase — internal" width="100%"></picture>
+<a href="https://github.com/matheusesdev/matchly"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/p3-en.svg"><img src="./assets/terminal/light/p3-en.svg" alt="MATCHLY ↗. TypeScript application evolving through iterative product and interface work. TypeScript · React · Vercel — in development" width="100%"></picture></a>
+<a href="https://github.com/matheusesdev/mecaniQA-salvador"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/p4-en.svg"><img src="./assets/terminal/light/p4-en.svg" alt="MECANIQA ↗. Time-series analysis and leakage-safe forecasting, with reproducible infrastructure. Python · Jupyter · scikit-learn · Docker — academic" width="100%"></picture></a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>loui</h3>
-      <p>Custom technology services: websites, automations, integrations, and AI and IT consulting.</p>
-      <p><sub>HTML · CSS · JavaScript</sub></p>
-      <p><sub><b>In development</b></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Lumi</h3>
-      <p>AI sales agent for real estate. Helps independent agents qualify and organize leads on a modular, multi-tenant foundation.</p>
-      <p><sub>Next.js · TypeScript · PostgreSQL · Prisma</sub></p>
-      <p><sub><b>In development</b></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Internal CRM distribution platform</h3>
-      <p>Private application that distributes commercial analyses and supports CRM-integrated workflows.</p>
-      <p><sub>FastAPI · React · Supabase</sub></p>
-      <p><sub><b>Internal</b></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/matheusesdev/matchly">Matchly</a></h3>
-      <p>TypeScript application evolving through iterative product and interface work. <a href="https://matchly-blue.vercel.app">Live preview</a>.</p>
-      <p><sub>TypeScript · React · Vercel</sub></p>
-      <p><sub><b>In development</b></sub></p>
-    </td>
-  </tr>
-</table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/s3-en.svg"><img src="./assets/terminal/light/s3-en.svg" alt="03 TELEMETRY" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/telemetry-en.svg"><img src="./assets/terminal/light/telemetry-en.svg" alt="5 public repositories, 232 contributions, 1 year, 36 pull requests" width="100%"></picture>
 
-**Academic:** [MecaniQA](https://github.com/matheusesdev/mecaniQA-salvador), time-series analysis and leakage-safe forecasting, with its [infrastructure repository](https://github.com/matheusesdev/mecaniQA-nuvem-salvador). Python · Jupyter · scikit-learn · Docker
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/s4-en.svg"><img src="./assets/terminal/light/s4-en.svg" alt="04 THE ROUTE" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/route-en.svg"><img src="./assets/terminal/light/route-en.svg" alt="2023-09: joined GitHub. 2026-08: Matchly. 2026-08: MecaniQA. NOW: building" width="100%"></picture>
 
-## Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/s5-en.svg"><img src="./assets/terminal/light/s5-en.svg" alt="05 STACK" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/stack-en.svg"><img src="./assets/terminal/light/stack-en.svg" alt="LANGUAGES: TypeScript · JavaScript · Python. WEB: React · Next.js · React Native · Tailwind CSS. BACKEND: FastAPI · REST APIs · Webhooks. DATA: PostgreSQL · Prisma · Supabase · Jupyter · scikit-learn. AI: Claude · OpenAI · Gemini · MCP. AUTOMATION: n8n · GitHub Actions · CRM workflows. DEPLOY: Docker · Vercel · Railway." width="100%"></picture>
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-27272A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-27272A?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/React-27272A?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-27272A?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/FastAPI-27272A?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/PostgreSQL-27272A?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Supabase-27272A?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Docker-27272A?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusesdev/matheusesdev/output-3d-contrib/profile-night-view.svg">
-  <img src="https://raw.githubusercontent.com/matheusesdev/matheusesdev/output-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%">
-</picture>
-
----
-
-<div align="center">
-
-<h3>Have a process that could be automated?</h3>
-
-<p>Tell me about it on <a href="https://www.linkedin.com/in/matheusessantos/">LinkedIn</a>.</p>
-
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal/dark/footer-en.svg"><img src="./assets/terminal/light/footer-en.svg" alt="STATUS — BUILDING THE NEXT INTEGRATION. Real problems first, AI as a copilot" width="100%"></picture>
